@@ -53,7 +53,7 @@ Install OpenCV 3.x under Linux
 ---------------------------------
 Please, note: the following instructions are also useful if you want to compile OpenCV under Windows or macOS. Linux package management systems (`apt-get`, `yum`, etc.) *may* provide the needed version of the OpenCV library.
 
-As first step, download and install `CMake <http://www.cmake.org/download/>`_ and `Apache Ant <http://ant.apache.org/>`_, if you don't have any of these. Download the OpenCV library from `its website <http://opencv.org/releases.html>`_.
+As first step, download and install `CMake <http://www.cmake.org/download/>`_ and `Apache Ant <http://ant.apache.org/>`_, if you don't have any of these. Download the OpenCV library from `its website <https://opencv.org/releases/>`_.
 Extract the downloaded OpenCV file in a location of your choice and open CMake ( cmake-gui ).
 Put the location of the extracted OpenCV library in the ``Where is the source code field`` (e.g., /opencv/) and insert the destination directory of your build in the ``Where to build the binaries`` field (e.g., /opencv/build).
 At last, check the ``Grouped`` and ``Advanced`` checkboxes.
